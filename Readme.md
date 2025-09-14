@@ -8,7 +8,7 @@
 - <a href="#Dashboard-Preview">Dashboard Preview</a>
 - <a href="#Key-Insights">Key Insights</a>
 - <a href="#Project-Structure">Project Structure</a>
-- <a href="#Result--Conclusion">Results & Conclusion</a>
+- <a href="#Results--Conclusion">Results & Conclusion</a>
 - <a href="#Author--Contact">Author & Contact</a>
 
 ---
@@ -122,7 +122,7 @@ Uber-Ride-Analytics-SQL-PowerBI/
 
 ```
 ---
-<h2><a class =”anchor” id=”Result--Conclusion></a>Results & Conclusion</h2>
+<h2><a class =”anchor” id=”Results--Conclusion”></a>Results & Conclusion</h2>
 
 - Solved 10 SQL queries that provided insights on bookings, cancellations, ride distances, payments, customer & driver ratings.
 - Designed 5 interactive Power BI dashboards (Overall, Vehicle Type, Revenue, Cancellation, Ratings) with 10+ visuals.
@@ -131,6 +131,7 @@ Uber-Ride-Analytics-SQL-PowerBI/
 - Overall, this project demonstrates how combining SQL for data analysis and Power BI for visualization can transform raw data into actionable insights for decision-making in ride-sharing businesses.
 
 ---
+
 <h2><a class =”anchor” id=”Author--Contact”></a>Author & Contact</h2>
 
 - Project by: Ashutosh Arekar
@@ -141,5 +142,6 @@ Uber-Ride-Analytics-SQL-PowerBI/
 Disclaimer - This project was created as a self-learning exercise based on publicly available datasets and online tutorials. All implementation and practice work is done by me.
 
 ---
+
 
 

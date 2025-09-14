@@ -86,7 +86,7 @@ The dashboard consists of **5 interactive pages**:
 
 ---
 
-<h2><a class ="anchor" id="Key-Insights"></a>Key Insights</a>
+<h3><a class ="anchor" id="Key-Insights"></a>Key Insights</a>
 
 - **Peak Hours:** Evening rides (6–9 PM) had the highest booking volumes.  
 - **Vehicle Performance:** Bike rides were more reliable, with fewer cancellations compared to sedans.  
@@ -143,6 +143,7 @@ Uber-Ride-Analytics-SQL-PowerBI/
 Disclaimer - This project was created as a self-learning exercise based on publicly available datasets and online tutorials. All implementation and practice work is done by me.
 
 ---
+
 
 
 

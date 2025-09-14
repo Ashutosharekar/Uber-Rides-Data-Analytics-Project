@@ -63,26 +63,26 @@ The dashboard consists of **5 interactive pages**:
 ### 🔹 1. Overall  
 - Ride Volume Over Time  
 - Booking Status Breakdown  
-![Dashboard Overview](results/Overall.png) 
+![Overall](results/Overall.png) 
 
 ### 🔹 2. Vehicle Type  
 - Top 5 Vehicle Types by Ride Distance  
-![Dashboard Overview](results/VehicleType.png) 
+![VehicleType](results/VehicleType.png) 
 
 ### 🔹 3. Revenue  
 - Revenue by Payment Method  
 - Top 5 Customers by Total Booking Value  
 - Ride Distance Distribution Per Day  
-![Dashboard Overview](results/Revenue.png) 
+![Revenue](results/Revenue.png) 
 
 ### 🔹 4. Cancellation  
 - Cancelled Rides Reasons (Customer & Drivers)  
-![Dashboard Overview](results/Cancellation.png) 
+![Cancellation](results/Cancellation.png) 
 
 ### 🔹 5. Ratings  
 - Driver Ratings Distribution  
 - Customer Ratings Distribution  
-![Dashboard Overview](results/Ratings.png) 
+![Rating](results/Rating.png) 
 
 ---
 
@@ -142,6 +142,7 @@ Uber-Ride-Analytics-SQL-PowerBI/
 Disclaimer - This project was created as a self-learning exercise based on publicly available datasets and online tutorials. All implementation and practice work is done by me.
 
 ---
+
 
 
 
